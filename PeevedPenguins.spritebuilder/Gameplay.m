@@ -16,6 +16,11 @@ CCNode *_levelNode;
 
 }
 
+- (void)retry {
+    // reload this level
+    [[CCDirector sharedDirector] replaceScene: [CCBReader loadAsScene:@"Gameplay"]];
+}
+
 // is called when CCB file has completed loading
 - (void)didLoadFromCCB {
     // tell this scene to accept touches
@@ -40,7 +45,7 @@ CCNode *_levelNode;
     
     // manually create & apply a force to launch the penguin
     CGPoint launchDirection = ccp(1, 0);
-    CGPoint force = ccpMult(launchDirection, 6000);
+    CGPoint force = ccpMult(launchDirection, 5000);
     [penguin.physicsBody applyForce:force];
     
     // ensure followed object is in visible are when starting
