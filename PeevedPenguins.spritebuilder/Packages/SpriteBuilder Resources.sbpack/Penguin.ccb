@@ -64,13 +64,13 @@
 			<key>cornerRadius</key>
 			<real>11.66796875</real>
 			<key>density</key>
-			<real>25</real>
+			<real>35</real>
 			<key>dynamic</key>
 			<true/>
 			<key>elasticity</key>
 			<real>0.30000001192092896</real>
 			<key>friction</key>
-			<real>0.30000001192092896</real>
+			<real>0.44999998807907104</real>
 			<key>points</key>
 			<array>
 				<array>
