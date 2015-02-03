@@ -146,7 +146,7 @@ CCPhysicsJoint *_penguinCatapultJoint;
     
     // manually create & apply a force to launch the penguin
     CGPoint launchDirection = ccp(1, 0);
-    CGPoint force = ccpMult(launchDirection, 5000);
+    CGPoint force = ccpMult(launchDirection, 3500);
     [penguin.physicsBody applyForce:force];
     
     // ensure followed object is in visible are when starting
