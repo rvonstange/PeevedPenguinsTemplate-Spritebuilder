@@ -68,7 +68,7 @@
 			<key>dynamic</key>
 			<true/>
 			<key>elasticity</key>
-			<real>0.44999998807907104</real>
+			<real>0.15000000596046448</real>
 			<key>friction</key>
 			<real>0.75</real>
 			<key>points</key>
