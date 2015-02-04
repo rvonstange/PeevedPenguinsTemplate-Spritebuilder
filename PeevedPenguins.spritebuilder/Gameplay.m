@@ -44,7 +44,7 @@ CCPhysicsJoint *_penguinCatapultJoint;
         
         // follow the flying penguin
         CCActionFollow *follow = [CCActionFollow actionWithTarget:_currentPenguin worldBoundary:self.boundingBox];
-        [_contentNode runAction:follow];
+        [self runAction:follow];
     }
 }
 
