@@ -136,7 +136,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>45</real>
+							<real>155</real>
 							<real>21</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -309,7 +309,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>46</real>
+							<real>156</real>
 							<real>67</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -482,7 +482,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>115</real>
+							<real>225</real>
 							<real>68</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -655,7 +655,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>80</real>
+							<real>190</real>
 							<real>104</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -828,7 +828,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>115</real>
+							<real>225</real>
 							<real>22</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -936,7 +936,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>149</real>
+							<real>259</real>
 							<real>12</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -965,8 +965,6 @@
 						<string>Seal.ccb</string>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1000,7 +998,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>261</real>
+							<real>371</real>
 							<real>12</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1062,7 +1060,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>17</real>
+							<real>127</real>
 							<real>14</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1189,7 +1187,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>202</real>
+							<real>312</real>
 							<real>22</real>
 							<integer>0</integer>
 							<integer>0</integer>
