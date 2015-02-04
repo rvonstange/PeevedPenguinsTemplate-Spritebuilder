@@ -155,7 +155,7 @@ CCPhysicsJoint *_penguinCatapultJoint;
     self.position = ccp(0, 0);
     CCActionFollow *follow = [CCActionFollow actionWithTarget:penguin worldBoundary:self.boundingBox];
     [_contentNode runAction:follow];
-    _contentNode.position = ccp(0,0);
+    CCLOG(@"%f",_contentNode.position.x);
 }
 
 
