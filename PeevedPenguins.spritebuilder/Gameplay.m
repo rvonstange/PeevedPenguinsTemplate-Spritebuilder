@@ -43,7 +43,6 @@ CCPhysicsJoint *_penguinCatapultJoint;
         _currentPenguin.physicsBody.allowsRotation = TRUE;
         
         // follow the flying penguin
-        self.position = ccp(0, 0);
         CCActionFollow *follow = [CCActionFollow actionWithTarget:_currentPenguin worldBoundary:_contentNode.boundingBox];
         [_contentNode runAction:follow];
     }
